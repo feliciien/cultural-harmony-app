@@ -11,7 +11,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Harmony
+          harmony
         </a>
       </header>
       {/* Render the PronunciationPractice component */}

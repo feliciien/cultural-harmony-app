@@ -5,13 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Harmony
+     
+          Learn React
         </a>
       </header>
       {/* Render the PronunciationPractice component */}
@@ -20,4 +15,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;a
